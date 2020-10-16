@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/14126898/94980589-10ca6700-04f9-11eb-94a5-26e9632720a4.PNG" width=200 align=center>
 
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
 Hello! This is Ashish. I am a Data Scientist. 👨‍🎓
 
 ### Currently...
@@ -29,3 +30,13 @@ Hello! This is Ashish. I am a Data Scientist. 👨‍🎓
 - 📫 How to reach me: [My Blog](https://ashishtele.github.io/), [LinkedIn](https://www.linkedin.com/in/ashishtele/)
 
 - 🤔 I’m looking for help with: Research on Vedic maths and its implementation in ML.
+
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishtele&show_icons=true&theme=gotham" alt="Ashish Tele | Stats" />
+
+</details>
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{ashishtele}/count.svg)
