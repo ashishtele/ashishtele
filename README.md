@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-Hello! This is Ashish. I am a Data Scientist. 👨‍🎓
+Hello! This is Ashish. I am a Data Scientist. 👨‍🎓 👨🏽‍💻
 
 <b><i>Let's connect! Find me on the web.</i></b>
 
