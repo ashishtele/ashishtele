@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Ashish Tele
+<div align="center">
+  <h2> Ashish Tele </h2>
+</div>
 <div align="center">
 <img src="https://github.com/ashishtele/ashishtele/blob/main/ASHT.jpg" width=200 align=center>
 </div>
 
 <div align="center">
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 Hello! This is Ashish. I am a Data Scientist. 👨‍🎓 👨🏽‍💻
 
