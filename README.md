@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Ashish Tele
-<img src="https://user-images.githubusercontent.com/14126898/94980589-10ca6700-04f9-11eb-94a5-26e9632720a4.PNG" width=200 align=center>
 
+# Ashish Tele
+<div align="center">
+<img src="https://github.com/ashishtele/ashishtele/blob/main/ASHT.jpg" width=200 align=center>
+</div>
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
