@@ -41,14 +41,13 @@ Hello! This is Ashish. I am a Data Scientist. 👨‍🎓 👨🏽‍💻
 
 - 🤔 I’m looking for help with: Research on Vedic maths and its implementation in ML.
 
-<details>
+
 <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishtele&show_icons=true&theme=gotham" alt="Ashish Tele | Stats" />
 
-</details>
-
- ![Visitor Count](https://profile-counter.glitch.me/{ashishtele}/count.svg)
+#### Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/{ashishtele}/count.svg)
 
 [twitter]: https://twitter.com/ashishtele1
 [gmail]: https://gmail.com
