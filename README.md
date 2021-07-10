@@ -56,3 +56,5 @@ Hello! This is Ashish. I am a Data Scientist. 👨‍🎓 👨🏽‍💻
 [twitter]: https://twitter.com/ashishtele1
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/ashishtele/
+  
+<p align="left"> <a href="https://twitter.com/ashishtele1" target="blank"><img src="https://img.shields.io/twitter/follow/ashishtele1?logo=twitter&style=for-the-badge" alt="ashishtele1" /></a> </p>
