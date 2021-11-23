@@ -1,8 +1,11 @@
 
 <div align="center">
-<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-Hello! This is Ashish. I am a Data Scientist. 👨‍🎓 👨🏽‍💻
+<h2> Hey you <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F78740&size=38&center=true&vCenter=true&width=600&height=90&lines=Welcome+to+Ashish's+Profile!)](https://git.io/typing-svg)
+  
+  
+Hello! This is Ashish. I am a Data Scientist. 👨‍🎓
 
 <b><i>Let's connect! Find me on the web.</i></b>
 
@@ -13,7 +16,7 @@ Hello! This is Ashish. I am a Data Scientist. 👨‍🎓 👨🏽‍💻
 <hr />
 </div>
 
-### Currently...
+## 👨‍💻 About Me ⇨
 
 - 🔭 I’m currently working on: Spreading knowledge on machine learning/statistical modeling through blog post.
 
@@ -24,15 +27,17 @@ Hello! This is Ashish. I am a Data Scientist. 👨‍🎓 👨🏽‍💻
 - 🤔 I’m looking for help with: Research on Vedic maths and its implementation in ML.
 
 
-<summary>📊 Github Stats</summary>
+## ⚡️ Github Stats ⇨
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishtele&show_icons=true&theme=highcontrast" alt="Ashish Tele | Stats" />
+ 
+## 📘 Current Repo ⇨
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MLOps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/MLOps)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MetaFlow_MLOps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/MetaFlow_MLOps)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=ashishtele.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/ashishtele.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=Quick-Notes-for-ML-DS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/Quick-Notes-for-ML-DS)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MLOps)](https://github.com/ashishtele/MLOps)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MetaFlow_MLOps)](https://github.com/ashishtele/MetaFlow_MLOps)
-  
-  
-#### Visitor Count:
+## 🔥 Visitor Count ⇨
 ![Visitor Count](https://profile-counter.glitch.me/{ashishtele}/count.svg)
 
 [twitter]: https://twitter.com/ashishtele1
