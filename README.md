@@ -48,8 +48,12 @@ Hello! This is Ashish. I am a Data Scientist. 👨‍🎓 👨🏽‍💻
 
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishtele&show_icons=true&theme=gotham" alt="Ashish Tele | Stats" />
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishtele&show_icons=true&theme=highcontrast" alt="Ashish Tele | Stats" />
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MLOps)](https://github.com/ashishtele/MLOps)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MetaFlow_MLOps)](https://github.com/ashishtele/MetaFlow_MLOps)
+  
+  
 #### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/{ashishtele}/count.svg)
 
