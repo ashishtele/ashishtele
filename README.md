@@ -12,6 +12,7 @@ Hello! This is Ashish. I am a Data Scientist. 👨‍🎓
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/goodreads-gray.svg?&style=for-the-badge&logo=goodreads&logoColor=golden" />][goodreads]
 <br />
 <hr />
 </div>
@@ -43,5 +44,6 @@ Hello! This is Ashish. I am a Data Scientist. 👨‍🎓
 [twitter]: https://twitter.com/ashishtele1
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/ashishtele/
+[goodreads]: https://www.goodreads.com/user/show/15522857-ashish-tele
   
 <p align="left"> <a href="https://twitter.com/ashishtele1" target="blank"><img src="https://img.shields.io/twitter/follow/ashishtele1?logo=twitter&style=for-the-badge" alt="ashishtele1" /></a> </p>
