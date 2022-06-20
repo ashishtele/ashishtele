@@ -1,6 +1,11 @@
 
+
 <div align="center">
+<!--
 <h2> Hey you ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px"></h2>
+--> 
+
+<img alt="Coder GIF" height=290 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F78740&size=38&center=true&vCenter=true&width=600&height=90&lines=Welcome+to+Ashish's+Profile!)](https://git.io/typing-svg)
   
