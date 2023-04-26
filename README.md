@@ -54,5 +54,3 @@ Hello! This is Ashish. I am a Data Scientist 👨‍🎓
 [goodreads]: https://www.goodreads.com/user/show/15522857-ashish-tele
   
 <p align="left"> <a href="https://twitter.com/ashishtele1" target="blank"><img src="https://img.shields.io/twitter/follow/ashishtele1?logo=twitter&style=for-the-badge" alt="ashishtele1" /></a> </p>
-
-![](https://activity-graph.herokuapp.com/graph?username=ashishtele&theme=react-dark&hide_border=true&area=true)
