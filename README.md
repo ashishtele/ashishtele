@@ -33,7 +33,7 @@ Hello! This is Ashish. I am a Data Scientist 👨‍🎓
 
 - 🤔 I’m looking for help with: Research on Vedic maths and its implementation in ML.
 
-- ⚡ Interested in: HealthTech and ClimateTech.
+- ⚡ Interested in: HealthTech, MedTech, and ClimateTech.
 
 
 ## ⚡️ Github Stats ⇨
