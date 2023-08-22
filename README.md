@@ -25,15 +25,15 @@ Hello! This is Ashish. I am a Data Science Professional 👨‍🎓
 
 ## 👨‍💻 About Me ⇨
 
-- 🔭 I’m currently working on: Spreading knowledge on machine learning/statistical modeling through blog post.
+- 🔭 I’m currently working on:- Spreading knowledge on machine learning/statistical modeling through blog post.
 
-- 🌱 I’m currently Mastering: Python, Advanced R, Power BI, and Business Communication.
+- 🌱 I’m currently Mastering:- Python, Advanced R, Power BI, and Business Communication.
 
-- 📫 How to reach me: [My Blog](https://ashishtele.github.io/)
+- 📫 How to reach me:- [My Blog](https://ashishtele.github.io/)
 
-- 🤔 I’m looking for help with: Research on Vedic maths and its implementation in ML.
+- 🤔 I’m looking for help with:- Research on Vedic maths and its implementation in ML.
 
-- ⚡ Interested in: HealthTech, MedTech, and ClimateTech.
+- ⚡ Interested in:- HealthTech, MedTech, and ClimateTech.
 
 
 ## ⚡️ Github Stats ⇨
