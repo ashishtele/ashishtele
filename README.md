@@ -31,7 +31,7 @@ Hello! This is Ashish. I am a Data Science Professional 👨‍🎓
 
 - 📫 How to reach me:- [My Blog](https://ashishtele.github.io/)
 
-- 🤔 I’m looking for help with:- Research on Vedic maths and its implementation in ML.
+- 🤔 I’m seeking help with:- Research on Vedic maths and its implementation in ML.
 
 - ⚡ Interested in:- HealthTech, MedTech, and ClimateTech.
 
