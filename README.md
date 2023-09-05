@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F78740&size=38&center=true&vCenter=true&width=600&height=90&lines=Welcome+to+Ashish's+Profile!)](https://git.io/typing-svg)
   
   
-Hello!! This is Ashish. I am a Data Science Professional 👨‍🎓
+Hello!!! This is Ashish. I am a Data Science Professional 👨‍🎓
 
 <b><i>Let's connect! Find me on the web.</i></b>
 
