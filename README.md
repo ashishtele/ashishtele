@@ -12,7 +12,7 @@
   
 Hello!! This is Ashish. I am a Data Science Professional 👨‍🎓
 
-<b><i>Let's connect! Find me on the web.</i></b>
+<b><i>Let's connect!! Find me on the web.</i></b>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
