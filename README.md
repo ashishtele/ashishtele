@@ -36,7 +36,7 @@ Hello!! This is Ashish T. I am a Data Science Professional 👨‍🎓
 - ⚡ Interested in:- HealthTech, MedTech, and ClimateTech.
 
 <p align="center">
-  <img width="200" height="200" src="/QR.PNG">
+  <img width="200" height="200" src="/QR.png">
 </p>
 
 ## ⚡️ Github Stats ⇨
