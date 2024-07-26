@@ -27,7 +27,7 @@ Hello!! This is Ashish T. I am a Data Science Professional 👨‍🎓
 
 - 🔭 I’m currently working on:- Spreading knowledge on machine learning/statistical modeling through blog post.
 
-- 🌱 I’m currently Mastering:- Python, Advanced R, Power BI, and Business Communication.
+- 🌱 I’m currently Mastering:- Python, Value creation, and Business Communication.
 
 - 📫 How to reach me:- [My Blog](https://ashishtele.github.io/)
 
