@@ -7,7 +7,7 @@
 
 <img alt="Coder GIF" height=290 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F78740&size=38&center=true&vCenter=true&width=600&height=90&lines=Welcome+to+Ashish's+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23F78740&size=38&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+Ashish's+Profile!)](https://git.io/typing-svg)
   
   
 Hello!! This is Ashish T. I am a Data Science Professional 👨‍🎓
