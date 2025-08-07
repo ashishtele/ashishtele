@@ -48,9 +48,7 @@ Hello!! This is Ashish T. I am a Data Science Professional 👨‍🎓
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MetaFlow_MLOps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/MetaFlow_MLOps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=ashishtele.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/ashishtele.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=Quick-Notes-for-ML-DS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/Quick-Notes-for-ML-DS)
-  
-## 🔥 Visitor Count ⇨
-![Visitor Count](https://profile-counter.glitch.me/{ashishtele}/count.svg)
+ 
 
 [twitter]: https://twitter.com/ashishtele1
 [gmail]: https://gmail.com
