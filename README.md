@@ -33,7 +33,7 @@ Hello!! This is Ashish T. I am an AI Professional 👨‍🎓
 
 - 🤔 I’m seeking help with:- Research on Vedic maths and its implementation in ML.
 
-- ⚡ Interested in:- HealthTech, MedTech, and ClimateTech.
+- ⚡ Interested in:- HealthTech, MedTech, and Clinical R&D.
 
 <p align="center">
   <img width="200" height="200" src="/QR.png">
