@@ -23,27 +23,29 @@ Hello!! This is Ashish T. I am an AI Professional 👨‍🎓
 <hr />
 </div>
 
-## 👨‍💻 About Me ⇨
+## About Me:
 
 - 🔭 I’m currently working on:- Spreading knowledge on machine learning/statistical modeling through blog post.
-
 - 🌱 I’m currently Mastering:- Python, Value creation, and Business Communication.
-
 - 📫 How to reach me:- [My Blog](https://ashishtele.github.io/)
-
 - 🤔 I’m seeking help with:- Research on Vedic maths and its implementation in ML.
-
 - ⚡ Interested in:- HealthTech, MedTech, and Clinical R&D.
 
 <p align="center">
   <img width="200" height="200" src="/QR.png">
 </p>
 
-## ⚡️ Github Stats ⇨
+## Github Stats:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishtele&show_icons=true&theme=highcontrast" alt="Ashish Tele | Stats" />
- 
-## 📘 Current Repo ⇨
+
+## Recent Focus:
+
+[Reasoning fs](https://github.com/ashishtele/reasoning-fs-py)
+
+[Rengram](https://github.com/ashishtele/Rengram)
+
+## Current Repo:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MLOps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/MLOps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MetaFlow_MLOps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/MetaFlow_MLOps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=ashishtele.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/ashishtele.github.io)
