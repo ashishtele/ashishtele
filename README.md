@@ -41,9 +41,8 @@ Hello!! This is Ashish T. I am an AI Professional 👨‍🎓
 
 ## Recent Focus:
 
-[Reasoning fs](https://github.com/ashishtele/reasoning-fs-py)
-
-[Rengram](https://github.com/ashishtele/Rengram)
+* [Reasoning fs](https://github.com/ashishtele/reasoning-fs-py): A high-performance virtual filesystem backed by LMDB
+* [Rengram](https://github.com/ashishtele/Rengram): A pure-R implementation of Engram's core memory store 
 
 ## Current Repo:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MLOps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/MLOps)
