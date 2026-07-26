@@ -35,10 +35,6 @@ Hello!! This is Ashish T. I am an AI Professional 👨‍🎓
   <img width="200" height="200" src="/QR.png">
 </p>
 
-## Github Stats:
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishtele&show_icons=true&theme=highcontrast" alt="Ashish Tele | Stats" />
-
 ## Recent Focus:
 
 * [Reasoning fs](https://github.com/ashishtele/reasoning-fs-py): A high-performance virtual filesystem backed by LMDB
