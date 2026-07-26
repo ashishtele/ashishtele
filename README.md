@@ -44,13 +44,6 @@ Hello!! This is Ashish T. I am an AI Professional 👨‍🎓
 * [Reasoning fs](https://github.com/ashishtele/reasoning-fs-py): A high-performance virtual filesystem backed by LMDB
 * [Rengram](https://github.com/ashishtele/Rengram): A pure-R implementation of Engram's core memory store 
 
-## Current Repo:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MLOps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/MLOps)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=MetaFlow_MLOps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/MetaFlow_MLOps)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=ashishtele.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/ashishtele.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishtele&repo=Quick-Notes-for-ML-DS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/ashishtele/Quick-Notes-for-ML-DS)
- 
-
 [twitter]: https://twitter.com/ashishtele1
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/ashishtele/
