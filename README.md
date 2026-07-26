@@ -25,8 +25,8 @@ Hello!! This is Ashish T. I am an AI Professional 👨‍🎓
 
 ## About Me:
 
-- 🔭 I’m currently working on:- Spreading knowledge on machine learning/statistical modeling through blog post.
-- 🌱 I’m currently Mastering:- Python, Value creation, and Business Communication.
+- 🔭 I’m currently working on:- Spreading knowledge on ML, AI, GenAI, Agentic AI through blog post.
+- 🌱 I’m currently Mastering:- Agentic architecture, Value creation, and Business Communication.
 - 📫 How to reach me:- [My Blog](https://ashishtele.github.io/)
 - 🤔 I’m seeking help with:- Research on Vedic maths and its implementation in ML.
 - ⚡ Interested in:- HealthTech, MedTech, and Clinical R&D.
