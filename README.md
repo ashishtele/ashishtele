@@ -29,7 +29,7 @@ Hello!! This is Ashish T. I am an AI Professional 👨‍🎓
 - 🌱 I’m currently Mastering:- Agentic architecture, Value creation, and Business Communication.
 - 📫 How to reach me:- [My Blog](https://ashishtele.github.io/)
 - 🤔 I’m seeking help with:- Research on Vedic maths and its implementation in ML.
-- ⚡ Interested in:- HealthTech, MedTech, and Clinical R&D.
+- ⚡ Interested in:- HealthTech, MedTech, and PharmaTech.
 
 <p align="center">
   <img width="200" height="200" src="/QR.png">
